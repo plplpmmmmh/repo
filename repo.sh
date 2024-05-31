@@ -23,6 +23,6 @@ apt-ftparchive \
 		release . > Release
 
 echo "[Repository] Signing Release using Amy's GPG Key..."
-gpg -abs -u 816C7A50B575162DC29288CD72339224580758CE -o Release.gpg Release
+gpg -abs -u E1A058EAAF2778D8DB1232EA6CB85B8FFCA0C463 -o Release.gpg Release
 
 echo "[Repository] Finished"
