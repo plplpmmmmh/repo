@@ -593,3 +593,21 @@ Author: Amy While <me@anamy.gay>
 Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: org.coolstar.sileonightly
+Architecture: iphoneos-arm64
+Version: 2.5+20240601.1717198053.91342ac
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileonightly_2.5+20240601.1717198053.91342ac_iphoneos-arm64.deb
+Size: 2893400
+MD5sum: 6c199c28735be110a90a7bb0bd16392b
+SHA1: 067eb64854a423885e5d1ebaf7fe22be85d0b798
+SHA256: 7dc006cf590e1af74fa5f5533a4b86cc5ec0a29f151a792ab73cf9c519483802
+SHA512: c507e25972bd85e342e30a9b94d471564ec33c36ac9c1602a47975813e64122a71ad26ad9ebe381f01729eb22a289a945c179d6c7de4dee0733fb927cf245f8f
+Description: A modern APT package manager frontend
+Name: Sileo (Nightly Channel)
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
