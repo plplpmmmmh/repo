@@ -5,11 +5,11 @@ Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Filename: ./pool/org.coolstar.sileo_2.5_iphoneos-arm64.deb
-Size: 2893628
-MD5sum: 9773aa4c58a2095a86f5956f40b76bb9
-SHA1: fa84d2c7652a267c331a869d72c8e8a27f49956f
-SHA256: 417bd043250f24c0225bfc1212258e3251e668ba024614829118171b98eeeb66
-SHA512: 9f48d2e100f307e1b7b1fb2930ac329cc54e909a09a6d7301144a0783b40a9b50b391ea846e4d453367f66742c7f41074cc5a137500982111b66f4ebc9c87267
+Size: 2894484
+MD5sum: 7e08ad327a730359d241a68934a17a91
+SHA1: 138ac3b044fcbdc443ed3e97cad45c3b68365ffe
+SHA256: 0ac5b6a04bc4c42dba8114eebaaba6a9f93fb740869e5dd6cda9a576070d91bb
+SHA512: 11a6a056fc8fbf3e88f21751dc1d8d80bca35f52b3fc7da631ac7ee83ac1a8126a9a2d9d9030b33ed8aa00c6a28e599647bedd3ba66563dcb13bc8c947a734bd
 Description: A modern APT package manager frontend
 Name: Sileo
 Author: Amy While <me@anamy.gay>
